@@ -10,6 +10,7 @@ Slovenski generator naključne identitete.
 - generiranje naključne telefonske številke
 - generiranje naključne EMŠO
 - generiranje naključne davčne številke
+- generiranje naključnega gesla
 
 ####O podatkih
 - identiteta se generira v vašem brskalniku (100% javascript)

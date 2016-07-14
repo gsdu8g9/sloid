@@ -1,4 +1,4 @@
-//Avtor Luka Pušić, <luka@pusic.si>
+//Avtor Luka Pušić, <luka@pusic.com>
 $.get('./data/imena_m_top250.txt', function(data) {
 	window.imena_m = data.split('\n');
 },'html');
